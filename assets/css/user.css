@@ -1,0 +1,12 @@
+.profile-main {
+    min-width: 0;
+}
+
+.profile-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile-posts {
+    margin-top: 16px;
+}

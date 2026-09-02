@@ -1,0 +1,21 @@
+.site-header .header-actions {
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.dashboard-grid {
+    margin-bottom: 16px;
+}
+
+.dashboard-grid .panel + .panel,
+.page-shell > .panel + .tools-grid {
+    margin-top: 16px;
+}
+
+.section-heading {
+    margin-bottom: 18px;
+}
+
+.tools-grid {
+    margin-top: 16px;
+}
